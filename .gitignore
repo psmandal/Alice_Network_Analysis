@@ -1,2 +1,6 @@
 chrome-mac-arm64.zip
 chrome-mac-arm64/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
